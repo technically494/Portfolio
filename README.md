@@ -34,7 +34,7 @@ It showcases personal information, skills, and projects in a clean and simple la
 
 
 ##  Project Link
-
+https://github.com/technically494/Portfolio
 
 ##  Author
 
